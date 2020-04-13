@@ -5,7 +5,7 @@
 
 In this project, the goal is to teach a reinforcement learning AI agent to navigate a Unity environment and play a simple game - collecting yellow bananas (with a reward of +1) and avoiding blue ones (with a reward of (-1). 
 
-![Trained Agent][images/trained.gif]
+![trained](images/trained.gif)
 
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around agent's forward direction.  Given this information, the agent has to learn how to best select actions.  Four discrete actions are available, corresponding to:
 
